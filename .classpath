@@ -3,10 +3,15 @@
 	<classpathentry kind="src" path="azureus2/src"/>
 	<classpathentry kind="src" path="azureus3/src"/>
 	<classpathentry kind="src" path="uis/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="azureus2/lib/swt-win64.jar"/>
+	<classpathentry kind="lib" path="azureus2/lib/apple-extensions.jar"/>
+	<classpathentry kind="lib" path="azureus2/lib/swt-carbon.jar"/>
+	<classpathentry kind="lib" path="azureus2/lib/swt-cocoa-32.jar"/>
+	<classpathentry kind="lib" path="azureus2/lib/swt-cocoa-64.jar"/>
+	<classpathentry kind="lib" path="azureus2/lib/swt-win32.jar"/>
 	<classpathentry kind="lib" path="uis/lib/commons-cli.jar"/>
 	<classpathentry kind="lib" path="uis/lib/junit.jar"/>
 	<classpathentry kind="lib" path="uis/lib/log4j.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
